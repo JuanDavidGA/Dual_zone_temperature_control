@@ -8,7 +8,7 @@
 
 
 ## Useful References
-References for the Temperature Sensor:
+** References for the Temperature Sensor: **
     Connections and Code -> https://randomnerdtutorials.com/micropython-ds18b20-esp32-esp8266/
     More code -> https://RandomNerdTutorials.com
     Sensor Datasheet -> https://cdn-shop.adafruit.com/datasheets/DS18B20.pdf

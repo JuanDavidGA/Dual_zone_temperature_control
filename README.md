@@ -7,8 +7,7 @@
 **[*How to Use the Project*](https://stackedit.io)** :
 
 
-Useful 
-"""
+## Useful References
 References for the Temperature Sensor:
     Connections and Code -> https://randomnerdtutorials.com/micropython-ds18b20-esp32-esp8266/
     More code -> https://RandomNerdTutorials.com
@@ -25,9 +24,7 @@ Useful Code Snippets for the Temperature Sensor:
         
     # Return the temperature in Celcius
     temp_sensor.read_temp(DS18B20_address[0]) 
-"""
 
-"""
 References for the SD Card Module:
     os for controlling the filesystem -> https://docs.micropython.org/en/latest/esp8266/tutorial/filesystem.html
     sd library with micropython -> https://learn.adafruit.com/micropython-hardware-sd-cards/micropython
@@ -45,4 +42,3 @@ Useful Code Snippets for the SD Card Module:
     # Makes the SD card the new root filesystem 
     vfs = os.VfsFat(sdcard)
     os.mount(vfs, "/sd")
-"""

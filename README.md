@@ -4,7 +4,7 @@
 
 **[*How to Install and Run the Project*](https://stackedit.io)** : 
 
-[Hardware](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Hardware%20level.jpg)
+![Hardware](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Hardware%20level.jpg)
 
 **[*How to Use the Project*](https://stackedit.io)** :
 

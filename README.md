@@ -27,6 +27,8 @@ Important notes:
 **[*How to Use the Project*](https://stackedit.io)** :
 <ul><li>Upload heater control to the main/server ESP</li><li>Upload sensor_node code in the 6 EPS temperature nodes</li><li>Upload realy_node code in the 4 EPS relay nodes</li><li>
 
+| Unordered Lists 	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
+    
 ## Useful References
 **References for the Temperature Sensor:**
     

@@ -25,7 +25,7 @@ Important notes:
 *  Special spot can not be located in the red zone
 
 **[*How to Use the Project*](https://stackedit.io)** :
-| Unordered Lists 	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
+<ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul>
 
 ## Useful References
 **References for the Temperature Sensor:**

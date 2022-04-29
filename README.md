@@ -12,6 +12,7 @@
     Connections and Code -> https://randomnerdtutorials.com/micropython-ds18b20-esp32-esp8266/
     More code -> https://RandomNerdTutorials.com
     Sensor Datasheet -> https://cdn-shop.adafruit.com/datasheets/DS18B20.pdf
+    <br></br>
 **Useful Code Snippets for the Temperature Sensor:**
     # Creates a ds18x20 object called temp_sensor on the sensor_pin defined earlier
     temp_sensor = ds18x20.DS18X20(onewire.OneWire(sensor_pin))

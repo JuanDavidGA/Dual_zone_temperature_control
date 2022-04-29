@@ -25,7 +25,7 @@ Important notes:
 *  Special spot can not be located in the red zone
 
 **[*How to Use the Project*](https://stackedit.io)** :
-<ol><li>Upload heater control to the main/server ESP</li><li>Upload sensor_node code in the 6 EPS temperature nodes</li><li>Upload realy_node code in the 4 EPS relay nodes</li><li>
+<ol><li>Down load the ESPnow bin file on every ESP</li><li>Upload heater control code to the main/server ESP</li><li>Upload sensor_node code in the 6 EPS temperature nodes</li><li>Upload realy_node code in the 4 EPS relay nodes</li><li> 
     
 ## Useful References
 **References for the Temperature Sensor:**

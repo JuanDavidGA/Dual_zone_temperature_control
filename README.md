@@ -1,8 +1,8 @@
 # Dual-zone temperature control
 
-**[*Project Description*]** : Code of a prototype that de-risk the dual zone temperature in the same room engineering challenge.
+**Project Description** : Code of a prototype that de-risk the dual zone temperature in the same room engineering challenge.
 
-**[*How to Install and Run the Project*](https://stackedit.io)** : 
+**How to Install and Run the Project** : 
 
 ![Hardware](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Hardware%20level.jpg)
 
@@ -24,7 +24,7 @@ Important notes:
 *  Zone can be any size 
 *  Special spot can not be located in the red zone
 
-**[*How to Use the Project*](https://stackedit.io)** :
+**How to Use the Project** :
 <ol><li>Down load the ESPnow bin file on every ESP</li><li>Upload heater control code to the main/server ESP</li><li>Upload sensor_node code in the 6 EPS temperature nodes</li><li>Upload realy_node code in the 4 EPS relay nodes</li><li> 
     
 ## Useful References

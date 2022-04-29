@@ -6,7 +6,11 @@
 
 ![Hardware](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Hardware%20level.jpg)
 
-*  Hardware consists of 11 ESP microcontrollers, 6 temperature sensors, 4 relays, and 4 heaters
+Hardware consists of: 
+*  11 ESP microcontrollers
+*  6 temperature sensors
+*  4 relays
+*  4 heaters
 
 ![topology](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Topology.jpg)
 

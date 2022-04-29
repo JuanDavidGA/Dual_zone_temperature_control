@@ -6,7 +6,7 @@
 
 ![Hardware](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Hardware%20level.jpg)
 
-![topology](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Hardware%20level.jpg)
+![topology](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Topology.jpg)
 
 **[*How to Use the Project*](https://stackedit.io)** :
 

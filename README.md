@@ -18,11 +18,11 @@ It is important to stick to the setup:
 *  3 temperature sensors surrounding each special spot 
 *  1 heater per wall
 
-![topology](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Topology.jpg)
+![redzone](https://github.com/JuanDavidGA/Dual_zone_temperature_control/blob/main/Red%20zone.png)
 
 Important notes:  
 *  Zone can be any size 
-*  Zone can not be located in the red zone
+*  Special spot can not be located in the red zone
 
 **[*How to Use the Project*](https://stackedit.io)** :
 
